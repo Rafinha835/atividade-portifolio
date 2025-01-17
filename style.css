@@ -34,3 +34,15 @@ body {
         width: 100%; /* Imagem ocupa toda a largura */
     }
 }
+h1{
+    text-align: center;
+}
+
+.herois{
+    background-color: rgb(148, 218, 239);
+}
+
+.viloes {
+    background-color: #ffe6ee
+}
+    
